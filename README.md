@@ -1,2 +1,2 @@
 # TexnologiaLogismikoy
-10araki
+Full Stack application using java.
